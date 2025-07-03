@@ -1,17 +1,17 @@
 <p align="center">
 <h1 align="center">
-<!-- Main title with a strong cyberpunk color -->
+<!-- Main title with a strong cyberpunk color. GitHub sometimes allows this inline style for H1. -->
 <code style="color:#FF00FF; font-weight:bold; font-family:'Fira Code', monospace; font-size:3em;">ANGELO ROMANO</code>
 </h1>
 
-<!-- Glitchy typing animation with varied colors and prompts -->
+<!-- Glitchy typing animation with varied colors and prompts - CORRECTED URL -->
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D00FF00%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3D>_INITIATING_SEQUENCE...;&pause=500&color=FF00FF&lines=>>_NETRUNNER_PROTOCOLS_ONLINE...;&pause=750&color=00FFFF&lines=>>>_BUILDING_THE_FUTURE_FROM_GDL...;&pause=1000&color=FFD500&lines=>>>>_SYSTEMS_ARE_GO%21" alt="Typing animation" />
 </p>
 </p>
 
-<p align="center"> <!-- ASCII art separator for a more aggressive look --> <code style="color:#00FF00;">.-=-..-=-..-=-..-=-..-=-..-=-..-=-.</code> </p>
+<p align="center"> <!-- ASCII art separator for a more aggressive look. Color via inline style is often stripped by GitHub, but the ASCII art itself provides the visual. --> <code style="color:#00FF00;">.-=-..-=-..-=-..-=-..-=-..-=-..-=-.</code> </p>
 ⚙️ |  A P E R A T I V E _ S T A T U S
 # INTERFACE: ANGELO_ROMANO
 # STATUS: [ONLINE] 🟢 // OPERATIONAL
@@ -57,16 +57,3 @@ Actualmente, estoy en fase de despliegue de mi portafolio digital, comenzando co
 
 📡 |  C O M M S _ C H A N N E L S
 > READY_FOR_CONNECTION: 💬
-
-<p align="center">
-<!-- Social media icons for connecting. Remember to replace the placeholder links! -->
-<!-- Example LinkedIn: -->
-<!-- <a href="https://www.google.com/search?q=https://www.linkedin.com/in/tu_usuario/"><img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" title="LinkedIn" /></a> -->
-<!-- Example Twitter/X: -->
-<!-- <a href="https://www.google.com/search?q=https://twitter.com/tu_usuario/"><img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" title="Twitter/X" /></a> -->
-<!-- Example GitHub: (you can link to your main GitHub profile) -->
-<!-- <a href="https://www.google.com/search?q=https://github.com/tu_usuario/"><img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" /></a> -->
-
-¡Intercepción de mensajes bienvenida para futuras colaboraciones y anomalías interesantes en la red! 🌐
-
-</p>
