@@ -20,10 +20,7 @@
 # MISSION: Forging realities where 
 #          AI, automation, and 
 #          intelligent tech converge.
-----------------------------------
-
----
-
+---------------------------------
 ## **🛠️ PASO 7: Lenguajes y tecnologías (con badges cyberpunk)**
 ```markdown
 <h3 align="center">
