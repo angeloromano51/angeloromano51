@@ -9,3 +9,15 @@
 <p align="center">
   <code style="color:#00FF00;">▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</code>
 </p>
+
+```terminal
+⚙️ |  OPERATIVE STATUS
+----------------------------------
+# INTERFACE: ANGELO_ROMANO
+# STATUS: [ONLINE] 🟢 // OPERATIONAL
+# LOCATION: GUADALAJARA_JALISCO_MX
+# CYBER-DISTRICT: 01 🌃
+# MISSION: Forging realities where 
+#          AI, automation, and 
+#          intelligent tech converge.
+----------------------------------
