@@ -15,3 +15,26 @@
 <p align="center">  
   --- ░▒▓█ ▓▒░ ---  
 </p>
+
+---
+
+### ⚙️ SOBRE MÍ
+
+🧠 Soy **Angelo Romano**, un desarrollador en formación con visión clara:  
+**crear soluciones que conecten IA, automatización y tecnología inteligente**.
+
+🚀 Tecnologías y áreas que manejo:
+
+- `Python` | `Java` | `HTML`  
+- `Domótica`, `n8n`, `MacroDroid`  
+- Automatización creativa y flujos inteligentes para el futuro
+
+---
+
+### 🛠️ TECNOLOGÍAS Y HERRAMIENTAS
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://upload.wikimedi
