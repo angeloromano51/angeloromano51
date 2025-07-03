@@ -21,3 +21,17 @@
 #          AI, automation, and 
 #          intelligent tech converge.
 ----------------------------------
+
+---
+
+## **🛠️ PASO 7: Lenguajes y tecnologías (con badges cyberpunk)**
+```markdown
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=300&lines=%3E_PRIMARY_PROTOCOLS" />
+</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFDE57&color=2E8B57" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=FF4500" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=DA70D6" alt="HTML5">
+</div>
