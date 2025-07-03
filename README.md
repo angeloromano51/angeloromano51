@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD500&center=true&vCenter=true&width=450&lines=CYBERPUNK+FREELANCER;IA+%7C+DOM%C3%93TICA;BIENVENIDO+A+MI+ZONA+FUTURISTA" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD500&center=true&vCenter=true&width=450&lines=FREELANCER;IA+%7C+DOM%C3%93TICA;BIENVENIDO+A+MI+ZONA+FUTURISTA" alt="Typing animation" />
 </p>
 
 ---
