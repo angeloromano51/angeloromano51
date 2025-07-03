@@ -1,159 +1,140 @@
 <p align="center">
-  <!-- Título principal con efecto neón mejorado -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=500&lines=%E2%94%8C%E2%94%80%5BANGELO_ROMANO%5D%E2%94%80%E2%94%90;FULL_STACK_DEVELOPER;AI_%26_AUTOMATION_SPECIALIST" alt="Título Cyberpunk"/>
+  <!-- Cabecera con GIF Matrix -->
+  <img src="https://github.com/AngeloRomano/AngeloRomano/raw/main/matrix.gif" width="100%"/>
   
-  <!-- Subtítulo con efecto glitch -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=00FF00&center=true&repeat=true&width=500&lines=%3E%3E_SYSTEM_READY;%3E%3E_INPUT_ACCEPTED;%3E%3E_AWAITING_COMMANDS" alt="Estado del sistema"/>
+  <!-- Título con efecto glitch -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=40&duration=4000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=600&lines=%3E%3E%3E+ANGELO_ROMANO" alt="Título Cyberpunk"/>
+  
+  <!-- Subtítulo animado -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1500&color=00FF00&center=true&repeat=true&width=600&lines=%3E+AI_ARCHITECT;%3E%3E+AUTOMATION_SORCERER;%3E%3E%3E+CYBERPUNK_DEVELOPER" alt="Roles"/>
 </p>
 
-<!-- Panel de estado estilo matriz corregido -->
-<div align="center">
-  <pre style="
+<!-- Panel de estado con GIF integrado -->
+<div align="center" style="
     background: #0d1117;
-    border: 1px solid #FF00FF;
-    border-left: 8px solid #FF00FF;
-    padding: 16px;
-    color: #00FF00;
-    font-family: 'Fira Code', monospace;
-    text-shadow: 0 0 8px #00FF00;
-    max-width: 650px;
+    border: 2px solid #FF00FF;
+    border-radius: 0;
+    padding: 0;
     margin: 20px auto;
-    overflow-x: auto;
-    white-space: pre-wrap;
-  ">
-  <span style="color: #FF00FF;">╔════════════════════════════════════════════╗</span>
-  <span style="color: #FF00FF;">║</span> <span style="color: #00FFFF; font-weight: bold;">SYSTEM STATUS</span>                          <span style="color: #FF00FF;">║</span>
-  <span style="color: #FF00FF;">╠════════════════════════════════════════════╣</span>
-  <span style="color: #FF00FF;">║</span> <span style="color: #00FFFF;">ID:</span>       ANGELO_ROMANO                <span style="color: #FF00FF;">║</span>
-  <span style="color: #FF00FF;">║</span> <span style="color: #00FFFF;">STATUS:</span>  <span style="background: #005500; padding: 2px 5px; border-radius: 3px;">ONLINE</span> 🟢 <span style="color: #888;">// OPERATIONAL</span>  <span style="color: #FF00FF;">║</span>
-  <span style="color: #FF00FF;">║</span> <span style="color: #00FFFF;">LOCATION:</span> GUADALAJARA_JALISCO_MX        <span style="color: #FF00FF;">║</span>
-  <span style="color: #FF00FF;">║</span> <span style="color: #00FFFF;">ZONE:</span>     <span style="color: #FFD700;">CYBER-DISTRICT_01</span>             <span style="color: #FF00FF;">║</span>
-  <span style="color: #FF00FF;">║</span>                                        <span style="color: #FF00FF;">║</span>
-  <span style="color: #FF00FF;">║</span> <span style="color: #00FFFF;">MISSION:</span> <span style="color: #FFD700;">Forging the future through</span>    <span style="color: #FF00FF;">║</span>
-  <span style="color: #FF00FF;">║</span>          <span style="color: #FFD700;">AI and automation systems</span>        <span style="color: #FF00FF;">║</span>
-  <span style="color: #FF00FF;">╚════════════════════════════════════════════╝</span>
-  </pre>
+    max-width: 700px;
+    overflow: hidden;
+">
+  <img src="https://github.com/AngeloRomano/AngeloRomano/raw/main/terminal.gif" width="100%" style="margin: 0;"/>
+  <div style="padding: 15px; font-family: 'Fira Code', monospace;">
+    <span style="color: #FF00FF;">╭─[</span><span style="color: #00FFFF; text-shadow: 0 0 8px #00FFFF;">SYSTEM STATUS</span><span style="color: #FF00FF;">]─</span><span style="color: #00FF00;"> ONLINE 🟢</span><span style="color: #FF00FF;">─╮</span><br>
+    <span style="color: #FF00FF;">│</span> <span style="color: #00FFFF;">LOCATION:</span> <span style="color: #FFD700;">GUADALAJARA_TECHHUB</span> <span style="color: #FF00FF;">│</span><br>
+    <span style="color: #FF00FF;">│</span> <span style="color: #00FFFF;">MISSION:</span> <span style="color: #FF00FF;">BUILDING_THE_FUTURE</span> <span style="color: #FF00FF;">│</span><br>
+    <span style="color: #FF00FF;">╰─[</span><span style="color: #00FF00;">$(date +%Y.%m.%d)</span><span style="color: #FF00FF;">]─╯</span>
+  </div>
 </div>
 
-<!-- Sección "About Me" mejorada -->
+<!-- Sección "About Me" con animación -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=%3E%3E_PROFILE_ANALYSIS" alt="Profile Analysis"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=00FFFF&width=600&lines=%3E%3E+BIOGRAPHY_ANALYSIS" alt="Biography"/>
   
   <div style="
-    background: rgba(13, 17, 23, 0.7);
+    background: rgba(0, 0, 30, 0.7);
     border-left: 4px solid #FF00FF;
-    padding: 15px;
+    padding: 20px;
     max-width: 650px;
     margin: 15px auto;
     text-align: left;
     font-family: 'Fira Code', monospace;
     color: #CCCCCC;
+    position: relative;
   ">
-    <span style="color: #FF00FF;">>></span> <span style="color: #00FF00;">Netrunner</span> specialized in <span style="color: #00FFFF;">AI development</span> and <span style="color: #00FFFF;">system automation</span><br>
-    <span style="color: #FF00FF;">>></span> Building <span style="color: #FFD700;">cyber-physical solutions</span> from <span style="color: #FFD700;">Mexico's Silicon Valley</span><br>
-    <span style="color: #FF00FF;">>></span> Focused on <span style="color: #00FF00;">ethical technology</span> and <span style="color: #00FF00;">disruptive innovation</span><br><br>
+    <img src="https://github.com/AngeloRomano/AngeloRomano/raw/main/hologram.gif" width="120" style="position: absolute; right: 20px; top: 20px; opacity: 0.7;"/>
     
-  <div style="
-    font-family: 'Fira Code', monospace;
-    background: #0d1117;
-    padding: 12px;
-    border-left: 3px solid #FF00FF;
-    margin: 15px 0;
-">
- <div style="
-    font-family: 'Fira Code', monospace;
-    background: #111122;
-    padding: 14px;
-    border: 1px solid #FF00FF;
-    border-left: 5px solid #FF00FF;
-    margin: 20px 0;
-    box-shadow: 0 0 15px rgba(255, 0, 255, 0.3);
-">
-  <!-- Barra de progreso con parpadeo -->
-  <span style="color: #888;">// LIVE DEPLOYMENT FEED</span><br>
-  <span style="color: #FF00FF;">╭─[</span><span style="color: #00FFFF; text-shadow: 0 0 8px #00FFFF;">PORTFOLIO_V2.0</span><span style="color: #FF00FF;">]─[</span><span style="color: #FFD700; animation: blink 1s step-end infinite;">65%</span><span style="color: #FF00FF;">]─╮</span><br>
-  <span style="color: #FF00FF;">│</span> <span style="color: #00FF00; text-shadow: 0 0 5px #00FF00;">███████████████░░░░░░░</span> <span style="color: #FF00FF;">│</span><br>
-  <span style="color: #FF00FF;">╰─[</span><span style="color: #00FFFF;">ETA: 2024.05.24</span><span style="color: #FF00FF;">]─╯</span>
-
-  <!-- Integración con GitHub Stats -->
-  <div style="
-      display: flex;
-      gap: 15px;
-      margin-top: 20px;
-      justify-content: space-between;
-      align-items: center;
-  ">
-    <div>
-      <span style="color: #888; font-size: 0.9em;">> GITHUB SYSTEMS:</span><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=AngeloRomano&show_icons=true&theme=radical&bg_color=111122&title_color=FF00FF&text_color=00FF00&icon_color=00FFFF&hide_border=true&include_all_commits=true" alt="Stats" style="height: 120px;">
-    </div>
+    <span style="color: #FF00FF;">>></span> <span style="color: #00FF00;">Cyber Systems Engineer</span> from <span style="color: #FFD700;">México</span><br>
+    <span style="color: #FF00FF;">>></span> Specializing in <span style="color: #00FFFF;">AI/ML</span> and <span style="color: #00FFFF;">Process Automation</span><br>
+    <span style="color: #FF00FF;">>></span> Building <span style="color: #FF00FF;">next-gen solutions</span> since 2018<br><br>
     
-    <div>
-      <span style="color: #888; font-size: 0.9em;">> DEPLOYMENT LOG:</span><br>
-      <span style="color: #00FFFF;">> Compiling: <span style="color: #FFD700;">87%</span></span><br>
-      <span style="color: #00FF00;">> Testing: <span style="color: #FFD700;">42%</span></span><br>
-      <span style="color: #FF00FF;">> Styling: <span style="color: #FFD700; animation: blink 1.5s step-end infinite;">65%</span></span>
+    <div style="
+      background: #000033;
+      padding: 10px;
+      border: 1px dashed #00FFFF;
+    ">
+      <span style="color: #888;">// CURRENTLY HACKING:</span><br>
+      <span style="color: #FF00FF;">[</span><span style="color: #00FF00;">███████████████░░░░░░░</span><span style="color: #FF00FF;">]</span> <span style="color: #FFD700; animation: blink 1s infinite;">65%</span><br>
+      <span style="color: #888; font-size: 0.8em;">> PORTFOLIO_V2.0 (ETA: 2024.05.24)</span>
     </div>
   </div>
 </div>
 
-<style>
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.3; text-shadow: 0 0 10px #FFD700; }
-  }
-</style></div>
-
-<!-- Tecnologías principales con mejor formato -->
+<!-- Tech Stack con GIF animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&width=500&lines=%3E%3E_CORE_TECH_STACK" alt="Tech Stack"/>
-  
-  <div style="margin: 15px 0;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFDE57&color=2E8B57" alt="Python">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=FF4500" alt="Java">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </div>
-</div>
-
-<!-- Automatización con mejor diseño -->
-<div align="center" style="margin: 25px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=500&lines=%3E%3E_AUTOMATION_PROTOCOLS" alt="Automation Tools"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=FF00FF&width=600&lines=%3E%3E+TECHNOLOGY_MATRIX" alt="Tech Stack"/>
   
   <div style="
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    gap: 10px;
-    max-width: 650px;
-    margin: 15px auto;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 15px;
+    max-width: 700px;
+    margin: 20px auto;
+    position: relative;
   ">
-    <img src="https://img.shields.io/badge/n8n-4A148C?style=for-the-badge&logo=n8n&logoColor=white&color=8A2BE2" alt="n8n">
-    <img src="https://img.shields.io/badge/MacroDroid-FF8C00?style=for-the-badge&logo=android&logoColor=white&color=FFD700" alt="MacroDroid">
-    <img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Home Assistant">
-    <img src="https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=white" alt="IFTTT">
+    <img src="https://github.com/AngeloRomano/AngeloRomano/raw/main/circuit.gif" style="position: absolute; width: 100%; height: 100%; opacity: 0.1; pointer-events: none;"/>
+    
+    <div style="background: rgba(0, 255, 0, 0.1); padding: 10px; border: 1px solid #00FF00;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFDE57"/>
+    </div>
+    <div style="background: rgba(255, 0, 255, 0.1); padding: 10px; border: 1px solid #FF00FF;">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    </div>
+    <div style="background: rgba(0, 255, 255, 0.1); padding: 10px; border: 1px solid #00FFFF;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    </div>
+    <!-- Añade más tecnologías aquí -->
   </div>
 </div>
 
-<!-- Estadísticas de GitHub mejor integradas -->
+<!-- GitHub Stats con animación -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=%3E%3E_SYSTEM_METRICS" alt="Metrics"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=00FFFF&width=600&lines=%3E%3E+PERFORMANCE_METRICS" alt="Metrics"/>
   
   <div style="
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 15px;
-    margin: 20px 0;
+    gap: 20px;
+    margin: 25px 0;
+    position: relative;
   ">
-    <img src="https://github-readme-stats.vercel.app/api?username=AngeloRomano&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF00FF&text_color=00FF00&icon_color=00FFFF&hide_border=true" alt="Stats"/>
+    <img src="https://github.com/AngeloRomano/AngeloRomano/raw/main/digitalrain.gif" style="position: absolute; width: 100%; height: 100%; opacity: 0.15;"/>
+    
+    <img src="https://github-readme-stats.vercel.app/api?username=AngeloRomano&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF00FF&text_color=00FF00&icon_color=00FFFF&hide_border=true&include_all_commits=true" alt="Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloRomano&layout=compact&theme=radical&bg_color=0d1117&title_color=FF00FF&text_color=00FF00&hide_border=true" alt="Top Langs"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloRomano&theme=radical&background=0d1117&ring=FF00FF&fire=00FF00&currStreakNum=00FFFF&sideNums=00FF00&sideLabels=00FFFF&dates=888&hide_border=true" alt="Streak Stats"/>
   </div>
 </div>
 
-<!-- Efecto de cierre mejorado -->
-<div align="center" style="margin: 40px 0 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF00FF&width=600&lines=%3E%3E%3E_SESSION_TERMINATED_%5B%23%23%23%23%23%5D;%3E%3E%3E_STAY_WIRED_%5B%23%23%23%23%23%5D;%3E%3E%3E_CONNECTION_CLOSED_%5B%23%23%23%23%23%5D" alt="Closing effect"/>
+<!-- Efecto de cierre con GIF -->
+<div align="center" style="margin: 40px 0 20px 0; position: relative;">
+  <img src="https://github.com/AngeloRomano/AngeloRomano/raw/main/cyberpunk.gif" width="100%" style="opacity: 0.5;"/>
+  <div style="
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+  ">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=3000&color=FF00FF&width=600&lines=%3E%3E%3E+SESSION_TERMINATED...;%3E%3E%3E+STAY_WIRED...;%3E%3E%3E+EXECUTION_COMPLETE" alt="Closing effect"/>
+  </div>
 </div>
+
+<style>
+  @keyframes blink {
+    0%, 100% { opacity: 1; text-shadow: 0 0 10px #FFD700; }
+    50% { opacity: 0.5; text-shadow: 0 0 20px #FF00FF; }
+  }
+  
+  @keyframes glow {
+    0% { text-shadow: 0 0 5px #FF00FF; }
+    50% { text-shadow: 0 0 20px #00FFFF; }
+    100% { text-shadow: 0 0 5px #FF00FF; }
+  }
+  
+  h1, h2, h3 {
+    animation: glow 2s infinite;
+  }
+</style>
