@@ -1,7 +1,5 @@
 <p align="center">
- <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ1MmtkNHc5NmViNGRhbDR1d3d4djMyajBrbXphMXRkczI3N2tzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/USV0ym7p3b3b3s0/giphy.gif" width="180px" alt="Cyberpunk neon" />
-</p>
+ <img src="https://media.tenor.com/u2vXbD6vlOIAAAAC/glitch-cyberpunk.gif" width="180px" alt="Cyberpunk glitch" />
 
 <h1 align="center">
   <code style="color:#FFD500; font-weight:bold; font-family:'Fira Code', monospace;">ANGELO ROMANO</code>
