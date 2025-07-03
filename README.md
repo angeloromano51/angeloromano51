@@ -16,7 +16,7 @@
 # INTERFACE: ANGELO_ROMANO
 # STATUS: [ONLINE] 🟢 // OPERATIONAL
 # LOCATION: GUADALAJARA_JALISCO_MX
-# CYBER-DISTRICT: 01 🌃
+# DISTRICT CODEX
 # MISSION: Forging realities where 
 #          AI, automation, and 
 #          intelligent tech converge.
