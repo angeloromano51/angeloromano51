@@ -52,12 +52,3 @@
 
 ### 🔰 LOGO A.R.
 
-Pronto aquí irá el **logo A.R. estilo cyberpunk**. Lo estoy diseñando ahora mismo, con fusión tipográfica entre las letras `A` y `R`, estilo futurista. Te lo entregaré en PNG y SVG para que lo uses aquí y en todos tus proyectos.
-
----
-
-🎯 **Siguiente paso:** te entrego el logo `A.R.` en breve. Luego avanzamos con tu primer repositorio de proyecto (ej: automatización con n8n o script de domótica con Python).
-
-¿Te gustaría que el logo tenga una estética más glitch, metalizada, neón o minimalista?
-
-Elige tu estilo y lo lanzo. 🚀
