@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="60px" alt="Hacker cursor">
+  <p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60px" alt="Hacker Mode">
+</p>
+
 </p>
 
 <h1 align="center">
