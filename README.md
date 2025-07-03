@@ -1,6 +1,5 @@
 <p align="center">
- <img src="https://media.tenor.com/1kTS_NM2XuMAAAAC/neon-animation.gif" width="180px" alt="Neon animation" />
-
+ 
 <h1 align="center">
   <code style="color:#FFD500; font-weight:bold; font-family:'Fira Code', monospace;">ANGELO ROMANO</code>
 </h1>
