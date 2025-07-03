@@ -74,21 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloRomano&layout=compact&theme=radical&bg_color=0d1117&title_color=FF00FF&text_color=00FF00" alt="Top Langs"/>
 </div>
 
-<!-- Contacto -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&width=400&lines=%3E_CONNECT_WITH_ME" alt="Contact"/>
-  
-  <br>
-  <a href="mailto:angelardo67@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/tuperfil">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/tuperfil">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</div>
+
 
 <!-- Efecto de cierre -->
 <p align="center" style="margin-top: 40px;">
