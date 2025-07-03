@@ -1,10 +1,17 @@
 <p align="center">
-  <p align="center">
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250px" alt="Hacker Mode">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ1MmtkNHc5NmViNGRhbDR1d3d4djMyajBrbXphMXRkczI3N2tzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/USV0ym7p3b3s0/giphy.gif" width="180px" alt="Cyberpunk neon" />
 </p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=39FF14&center=true&vCenter=true&width=450&lines=%F0%9F%94%A5+ANGELO+ROMANO+%F0%9F%94%A5;Cyberpunk+Freelancer+%7C+IA+%7C+Dom%C3%B3tica;Conectado+a+la+Red...+%F0%9F%92%BB" alt="Typing header" />
+  <code style="color:#FFD500; font-weight:bold; font-family:'Fira Code', monospace;">ANGELO ROMANO</code>
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD500&center=true&vCenter=true&width=450&lines=CYBERPUNK+FREELANCER;IA+%7C+DOM%C3%93TICA;BIENVENIDO+A+MI+ZONA+FUTURISTA" alt="Typing animation" />
+</p>
 
+---
+
+<p align="center">  
+  --- ░▒▓█ ▓▒░ ---  
+</p>
