@@ -79,7 +79,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&width=400&lines=%3E_CONNECT_WITH_ME" alt="Contact"/>
   
   <br>
-  <a href="mailto:tu@email.com">
+  <a href="mailto:angelardo67@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/tuperfil">
