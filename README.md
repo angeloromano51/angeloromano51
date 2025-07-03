@@ -1,59 +1,52 @@
 <p align="center">
-<h1 align="center">
-<!-- Main title with a strong cyberpunk color. GitHub sometimes allows this inline style for H1. -->
-<code style="color:#FF00FF; font-weight:bold; font-family:'Fira Code', monospace; font-size:3em;">ANGELO ROMANO</code>
-</h1>
+  <h1 align="center">
+    <!-- Título con efecto neón cyberpunk -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=480&lines=%3E%3E%3E_ANGELO_ROMANO" alt="ANGELO ROMANO" />
+  </h1>
 
-<!-- Glitchy typing animation with varied colors and prompts - CORRECTED URL -->
+  <!-- Animación de terminal hacker con múltiples líneas -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_INITIATING_SEQUENCE...;%3E%3E_NETRUNNER_PROTOCOLS_ONLINE...;%3E%3E%3E_BUILDING_THE_FUTURE_FROM_GDL...;%3E%3E%3E%3E_SYSTEMS_ARE_GO%21" alt="Terminal animation" />
+</p>
 
+<!-- Separador ASCII mejorado -->
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D00FF00%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3D>_INITIATING_SEQUENCE...;&pause=500&color=FF00FF&lines=>>_NETRUNNER_PROTOCOLS_ONLINE...;&pause=750&color=00FFFF&lines=>>>_BUILDING_THE_FUTURE_FROM_GDL...;&pause=1000&color=FFD500&lines=>>>>_SYSTEMS_ARE_GO%21" alt="Typing animation" />
-</p>
-</p>
-
-<p align="center"> <!-- ASCII art separator for a more aggressive look. Color via inline style is often stripped by GitHub, but the ASCII art itself provides the visual. --> <code style="color:#00FF00;">.-=-..-=-..-=-..-=-..-=-..-=-..-=-.</code> </p>
-⚙️ |  A P E R A T I V E _ S T A T U S
-# INTERFACE: ANGELO_ROMANO
-# STATUS: [ONLINE] 🟢 // OPERATIONAL
-# LOCATION: GUADALAJARA_JALISCO_MX // CYBER-DISTRICT_01 🌃
-
-# MISSION: Forging realities where AI, automation, and intelligent tech converge.
-
-<p>
-Soy <b>Angelo Romano</b>, un <b>Netrunner</b> en la vanguardia del desarrollo, especializado en la fusión de <b>Inteligencia Artificial</b>, <b>Automatización de Sistemas</b> y <b>Tecnologías Inteligentes</b>. Mi objetivo es hackear el status quo, línea por línea de código, para construir el mañana.
+  <code style="color:#00FF00;">▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</code>
 </p>
 
-🛠️ |  H A R D W A R E _ & _ P R O T O C O L S
-> PRIMARY_LANGUAGES_LOADED:
-
+<!-- Status panel con estilo de terminal -->
 <div align="center">
-<!-- Vibrant badges for key languages - CORRECTED URLs -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3DFFDE57%26color%3D2E8B57" alt="Python Badge">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3DFFFFFF%26color%3DFF4500" alt="Java Badge">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3DFFFFFF%26color%3DDA70D6" alt="HTML5 Badge">
-<!-- Add other languages if relevant -->
-</div>
+  
+  ```terminal
+  ⚙️ |  OPERATIVE STATUS
+  ----------------------------------
+  # INTERFACE: ANGELO_ROMANO
+  # STATUS: [ONLINE] 🟢 // OPERATIONAL
+  # LOCATION: GUADALAJARA_JALISCO_MX
+  # CYBER-DISTRICT: 01 🌃
+  # MISSION: Forging realities where 
+  #          AI, automation, and 
+  #          intelligent tech converge.
+  ----------------------------------
+</div><!-- Sección "About Me" con estilo de consola --><div align="left">
+console
+$ whoami
+> Soy Angelo Romano, un Netrunner en la vanguardia del desarrollo,
+> especializado en la fusión de Inteligencia Artificial,
+> Automatización de Sistemas y Tecnologías Inteligentes.
+> 
+> Objetivo: Hackear el status quo, línea por línea de código,
+> para construir el mañana.
+</div><!-- Lenguajes con badges cyberpunk --><h3 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=300&lines=%3E_PRIMARY_PROTOCOLS" /> </h3><div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFDE57&color=2E8B57" alt="Python"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=FF4500" alt="Java"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=DA70D6" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=6495ED" alt="CSS3"> </div><!-- Frameworks con estilo de consola --><h3 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&width=300&lines=%3E_AUTOMATION_FRAMEWORKS" /> </h3><div align="center"> <img src="https://img.shields.io/badge/Domótica-2196F3?style=for-the-badge&logoColor=white&color=1E90FF" alt="Domótica"> <img src="https://img.shields.io/badge/n8n-4A148C?style=for-the-badge&logoColor=white&color=8A2BE2" alt="n8n"> <img src="https://img.shields.io/badge/MacroDroid-FF8C00?style=for-the-badge&logoColor=white&color=FFD700" alt="MacroDroid"> </div><!-- Sección de estado actual --><div align="left">
+system
+🧪 |  CURRENT OPERATION
+----------------------------------
+# PHASE: INITIATING_ALPHA_REPO
+# STATUS: [DEPLOYING] 
+# LEARNING_CURVE: HIGH_VELOCITY ⚡
+# OBJECTIVE: Establish foundational
+#            digital infrastructure.
 
-> AUTOMATION_FRAMEWORKS:
-
-<div align="center">
-<!-- Cyberpunk-themed badges for automation tools - CORRECTED URLs -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Dom%25C3%25B3tica-2196F3%3Fstyle%3Dfor-the-badge%26logoColor%3DFFFFFF%26color%3D1E90FF" alt="Domótica Badge">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/n8n-4A148C%3Fstyle%3Dfor-the-badge%26logoColor%3DFFFFFF%26color%3D8A2BE2" alt="n8n Badge">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MacroDroid-FF8C00%3Fstyle%3Dfor-the-badge%26logoColor%3DFFFFFF%26color%3DFFD700" alt="MacroDroid Badge">
-</div>
-
-🧪 |  O P E R A T I O N S _ L O G
-# CURRENT_OPERATION: [INITIATING_ALPHA_REPO]
-# STATUS: [DEPLOYING] // LEARNING_CURVE_HIGH_VELOCITY ⚡
-# OBJECTIVE: To establish foundational digital infrastructure.
-
-# ..._LOADING_DATA_PACKETS...
-[██████████████░░░░░░░░░] 70% // ENCRYPTING_KNOWLEDGE_BASE
-
-<p>
-Actualmente, estoy en fase de despliegue de mi portafolio digital, comenzando con mi primer repositorio. Cada línea de código es un paso hacia la dominación de la automatización y la IA. La red es mi campo de juego.
-</p>
-
-📡 |  C O M M S _ C H A N N E L S
-> READY_FOR_CONNECTION: 💬
+[██████████████░░░░░░░░░] 70% 
+> ENCRYPTING_KNOWLEDGE_BASE...
+----------------------------------
+</div><!-- Contacto con estilo de interfaz hacker --><h3 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=300&lines=%3E_COMMS_CHANNELS" /> </h3><div align="center"> <a href="mailto:tu@email.com"> <img src="https://img.shields.io/badge/EMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://linkedin.com/in/tuperfil"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </div><!-- Efecto de cierre --><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=FF00FF&width=600&lines=%3E%3E%3E_SESSION_TERMINATED...;%3E%3E%3E_STAY_WIRED..." alt="Closing effect" /> </p> ```
