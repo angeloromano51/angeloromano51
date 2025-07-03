@@ -60,21 +60,49 @@
     border-left: 3px solid #FF00FF;
     margin: 15px 0;
 ">
-  <span style="color: #888;">// SYSTEM DEPLOYMENT STATUS</span><br>
-  <span style="color: #FF00FF;">├─[</span><span style="color: #00FFFF;">PORTFOLIO_V2.0</span><span style="color: #FF00FF;">]─</span><br>
-  <span style="color: #FF00FF;">│</span> <span style="color: #00FF00;">███████████████░░░░░░░</span> <span style="color: #FF00FF;">│</span> <span style="color: #FFD700;">65%</span><br>
-  <span style="color: #FF00FF;">└─[</span><span style="color: #00FFFF;">ETA: 24.5.2024</span><span style="color: #FF00FF;">]─</span>
-  
+ <div style="
+    font-family: 'Fira Code', monospace;
+    background: #111122;
+    padding: 14px;
+    border: 1px solid #FF00FF;
+    border-left: 5px solid #FF00FF;
+    margin: 20px 0;
+    box-shadow: 0 0 15px rgba(255, 0, 255, 0.3);
+">
+  <!-- Barra de progreso con parpadeo -->
+  <span style="color: #888;">// LIVE DEPLOYMENT FEED</span><br>
+  <span style="color: #FF00FF;">╭─[</span><span style="color: #00FFFF; text-shadow: 0 0 8px #00FFFF;">PORTFOLIO_V2.0</span><span style="color: #FF00FF;">]─[</span><span style="color: #FFD700; animation: blink 1s step-end infinite;">65%</span><span style="color: #FF00FF;">]─╮</span><br>
+  <span style="color: #FF00FF;">│</span> <span style="color: #00FF00; text-shadow: 0 0 5px #00FF00;">███████████████░░░░░░░</span> <span style="color: #FF00FF;">│</span><br>
+  <span style="color: #FF00FF;">╰─[</span><span style="color: #00FFFF;">ETA: 2024.05.24</span><span style="color: #FF00FF;">]─╯</span>
+
+  <!-- Integración con GitHub Stats -->
   <div style="
-      margin-top: 8px;
-      color: #888;
-      font-size: 0.8em;
+      display: flex;
+      gap: 15px;
+      margin-top: 20px;
+      justify-content: space-between;
+      align-items: center;
   ">
-  > <span style="color: #00FFFF;">Compiling components...</span><br>
-  > <span style="color: #00FF00;">Optimizing performance</span><br>
-  > <span style="color: #FF00FF;">Injecting cyberpunk aesthetics</span>
+    <div>
+      <span style="color: #888; font-size: 0.9em;">> GITHUB SYSTEMS:</span><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=AngeloRomano&show_icons=true&theme=radical&bg_color=111122&title_color=FF00FF&text_color=00FF00&icon_color=00FFFF&hide_border=true&include_all_commits=true" alt="Stats" style="height: 120px;">
+    </div>
+    
+    <div>
+      <span style="color: #888; font-size: 0.9em;">> DEPLOYMENT LOG:</span><br>
+      <span style="color: #00FFFF;">> Compiling: <span style="color: #FFD700;">87%</span></span><br>
+      <span style="color: #00FF00;">> Testing: <span style="color: #FFD700;">42%</span></span><br>
+      <span style="color: #FF00FF;">> Styling: <span style="color: #FFD700; animation: blink 1.5s step-end infinite;">65%</span></span>
+    </div>
   </div>
 </div>
+
+<style>
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; text-shadow: 0 0 10px #FFD700; }
+  }
+</style></div>
 
 <!-- Tecnologías principales con mejor formato -->
 <div align="center">
