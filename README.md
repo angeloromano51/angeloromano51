@@ -53,8 +53,26 @@
     <span style="color: #FF00FF;">>></span> Building <span style="color: #FFD700;">cyber-physical solutions</span> from <span style="color: #FFD700;">Mexico's Silicon Valley</span><br>
     <span style="color: #FF00FF;">>></span> Focused on <span style="color: #00FF00;">ethical technology</span> and <span style="color: #00FF00;">disruptive innovation</span><br><br>
     
-    <span style="color: #888;">// CURRENTLY DEPLOYING:</span><br>
-    <span style="color: #FF00FF;">[</span><span style="color: #00FF00;">████████████████░░░░░░</span><span style="color: #FF00FF;">]</span> 65% <span style="color: #888;">// PORTFOLIO_V2.0</span>
+  <div style="
+    font-family: 'Fira Code', monospace;
+    background: #0d1117;
+    padding: 12px;
+    border-left: 3px solid #FF00FF;
+    margin: 15px 0;
+">
+  <span style="color: #888;">// SYSTEM DEPLOYMENT STATUS</span><br>
+  <span style="color: #FF00FF;">├─[</span><span style="color: #00FFFF;">PORTFOLIO_V2.0</span><span style="color: #FF00FF;">]─</span><br>
+  <span style="color: #FF00FF;">│</span> <span style="color: #00FF00;">███████████████░░░░░░░</span> <span style="color: #FF00FF;">│</span> <span style="color: #FFD700;">65%</span><br>
+  <span style="color: #FF00FF;">└─[</span><span style="color: #00FFFF;">ETA: 24.5.2024</span><span style="color: #FF00FF;">]─</span>
+  
+  <div style="
+      margin-top: 8px;
+      color: #888;
+      font-size: 0.8em;
+  ">
+  > <span style="color: #00FFFF;">Compiling components...</span><br>
+  > <span style="color: #00FF00;">Optimizing performance</span><br>
+  > <span style="color: #FF00FF;">Injecting cyberpunk aesthetics</span>
   </div>
 </div>
 
