@@ -1,6 +1,8 @@
 <p align="center">
   <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60px" alt="Hacker Mode">
+  <img src="URL_DEL_GIF" width="120px" alt="GIF hacker" />
+</p>
+
 </p>
 
 </p>
