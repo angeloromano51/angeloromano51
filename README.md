@@ -21,3 +21,17 @@
 #          AI, automation, and 
 #          intelligent tech converge.
 ----------------------------------
+**⚠️ Nota:** GitHub no soporta sintaxis `terminal`, pero puedes usar ` ``` ` sin etiqueta o ` ```console `.
+
+---
+
+## **👾 PASO 6: Sección "Whoami" (estilo comando de terminal)**
+```markdown
+```console
+$ whoami
+> Soy Angelo Romano, un Netrunner en la vanguardia del desarrollo,
+> especializado en la fusión de Inteligencia Artificial,
+> Automatización de Sistemas y Tecnologías Inteligentes.
+> 
+> Objetivo: Hackear el status quo, línea por línea de código,
+> para construir el mañana.
