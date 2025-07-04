@@ -1,14 +1,14 @@
 <p align="center">
-  <!-- Título principal con efecto de escritura -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=580&lines=┃┃┃[ANGELO_ROMANO]┃┃┃" alt="Título Cyberpunk"/>
+  <!-- Título principal corregido -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=580&lines=ANGELO_ROMANO" alt="Título Cyberpunk"/>
   
-  <!-- Subtítulo animado -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00FF00&center=true&repeat=true&width=580&lines=>_AI_ARCHITECT:ACTIVE;>>_AUTOMATION_SORCERER:ONLINE;>>>_CYBERPUNK_DEVELOPER:SYNCED" alt="Roles"/>
+  <!-- Subtítulo animado corregido -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=00FF00&center=true&repeat=true&width=580&lines=AI_ARCHITECT::ACTIVE;AUTOMATION_SORCERER::ONLINE;CYBERPUNK_DEVELOPER::SYNCED" alt="Roles"/>
 </p>
 
-<!-- Banner alternativo que sí funciona -->
+<!-- Banner funcional alternativo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%"/>
+  <img src="https://raw.githubusercontent.com/angeloromano51/angeloromano51/main/assets/cyber-banner.png" width="100%" alt="Banner Cyberpunk"/>
 </p>
 
 <!-- Panel de estado estilo terminal -->
@@ -33,7 +33,7 @@
 
 <!-- Sección Biografía -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=>>_BIOGRAPHY_ANALYSIS" alt="Biografía"/>
+  <h3 style="color:#00FFFF; font-family: 'Fira Code', monospace;">>> BIOGRAPHY_ANALYSIS</h3>
   
   <div style="
     background: rgba(13, 17, 23, 0.8);
@@ -50,9 +50,9 @@
   </div>
 </div>
 
-<!-- Estado de desarrollo con barra de progreso funcional -->
+<!-- Estado de desarrollo -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=600&lines=>>_DEPLOYMENT_STATUS" alt="Deployment Status"/>
+  <h3 style="color:#00FF00; font-family: 'Fira Code', monospace;">>> DEPLOYMENT_STATUS</h3>
   
   <div style="
     background: #0d1117;
@@ -67,10 +67,12 @@
     >> PROGRESS: <span style="color:#FFD700">65%</span><br>
     >> ETA: <span style="color:#FF00FF">2025.07.24</span><br>
     
-    <!-- Barra de progreso funcional -->
-    <img src="https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=006600" width="100%" alt="Progress Bar">
+    <!-- Barra de progreso mejorada -->
+    <div style="background:#000033; height:10px; margin:10px 0; border-radius:5px; overflow:hidden;">
+      <div style="background:linear-gradient(90deg,#00FF00,#00FFFF); width:65%; height:100%;"></div>
+    </div>
     
-    <div style="color:#888; font-size:0.8em; margin-top:10px;">
+    <div style="color:#888; font-size:0.8em;">
       > Compiling components... [87%]<br>
       > Optimizing performance... [42%]
     </div>
@@ -79,7 +81,7 @@
 
 <!-- Tech Stack -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&width=500&lines=>>_TECHNOLOGY_MATRIX" alt="Tech Stack"/>
+  <h3 style="color:#FF00FF; font-family: 'Fira Code', monospace;">>> TECHNOLOGY_MATRIX</h3>
   
   <div style="
     display: flex;
@@ -100,7 +102,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=>>_PERFORMANCE_METRICS" alt="Metrics"/>
+  <h3 style="color:#00FFFF; font-family: 'Fira Code', monospace;">>> PERFORMANCE_METRICS</h3>
   
   <div style="
     display: flex;
@@ -117,5 +119,9 @@
 
 <!-- Efecto de cierre -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF00FF&width=600&lines=>>>_SESSION_TERMINATED...;>>>_STAY_WIRED...;>>>_EXECUTION_COMPLETE" alt="Closing effect"/>
+  <h3 style="color:#FF00FF; font-family: 'Fira Code', monospace; animation: blink 2s infinite;">
+    >>> SESSION_TERMINATED...<br>
+    >>> STAY_WIRED...<br>
+    >>> EXECUTION_COMPLETE
+  </h3>
 </p>
