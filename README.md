@@ -39,7 +39,7 @@
   ">
     <span style="color:#FF00FF">>></span> Cyber Systems Engineer from <span style="color:#FFD700">México</span><br>
     <span style="color:#FF00FF">>></span> Specializing in <span style="color:#00FFFF">AI/ML</span> and <span style="color:#00FFFF">Automation</span><br>
-    <span style="color:#FF00FF">>></span> Building <span style="color:#FF00FF">next-gen solutions</span> since 2018<br><br>
+    <span style="color:#FF00FF">>></span> Building <span style="color:#FF00FF">next-gen solutions</span> since 010101<br><br>
     
     <div style="
       background: #000033;
