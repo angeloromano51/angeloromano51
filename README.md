@@ -1,19 +1,14 @@
 <p align="center">
-  <!-- Título con efecto de máquina de escribir -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=580&lines=%E2%96%88%E2%96%88%E2%96%88%5BANGELO_ROMANO%5D%E2%96%88%E2%96%88%E2%96%88" alt="Título Cyberpunk"/>
+  <!-- Título principal con efecto de escritura -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=580&lines=┃┃┃[ANGELO_ROMANO]┃┃┃" alt="Título Cyberpunk"/>
   
   <!-- Subtítulo animado -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00FF00&center=true&repeat=true&width=580&lines=%3E_AI_ARCHITECT%3A_ACTIVE;%3E%3E_AUTOMATION_SORCERER%3A_ONLINE;%3E%3E%3E_CYBERPUNK_DEVELOPER%3A_SYNCED" alt="Roles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00FF00&center=true&repeat=true&width=580&lines=>_AI_ARCHITECT:ACTIVE;>>_AUTOMATION_SORCERER:ONLINE;>>>_CYBERPUNK_DEVELOPER:SYNCED" alt="Roles"/>
 </p>
 
-<!-- Banner funcional (imagen alojada en Imgur) -->
+<!-- Banner alternativo que sí funciona -->
 <p align="center">
-  <img src="https://i.imgur.com/Jr6s8Wj.gif" alt="Banner Cyberpunk" width="700"/>
-</p>
-
-<!-- Avatar animado -->
-<p align="center">
-  <img src="https://i.imgur.com/3yQz4DQ.gif" width="150" alt="Avatar Cyberpunk"/>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%"/>
 </p>
 
 <!-- Panel de estado estilo terminal -->
@@ -38,7 +33,7 @@
 
 <!-- Sección Biografía -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=%3E%3E_BIOGRAPHY_ANALYSIS" alt="Biografía"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=>>_BIOGRAPHY_ANALYSIS" alt="Biografía"/>
   
   <div style="
     background: rgba(13, 17, 23, 0.8);
@@ -48,17 +43,16 @@
     margin: 15px auto;
     font-family: 'Courier New', monospace;
     color: #CCCCCC;
-    position: relative;
   ">
-    <span style="color:#FF00FF">>></span> Cyber Systems Engineer from <span style="color:#FFD700">México</span><br>
-    <span style="color:#FF00FF">>></span> Specializing in <span style="color:#00FFFF">AI/ML</span> and Automation<br>
-    <span style="color:#FF00FF">>></span> Building <span style="color:#FF00FF">next-gen solutions</span> since 2018
+    >> Cyber Systems Engineer from <span style="color:#FFD700">México</span><br>
+    >> Specializing in <span style="color:#00FFFF">AI/ML</span> and Automation<br>
+    >> Building <span style="color:#FF00FF">next-gen solutions</span> since 2018
   </div>
 </div>
 
 <!-- Estado de desarrollo con barra de progreso funcional -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=600&lines=%3E%3E_DEPLOYMENT_STATUS" alt="Deployment Status"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=600&lines=>>_DEPLOYMENT_STATUS" alt="Deployment Status"/>
   
   <div style="
     background: #0d1117;
@@ -73,10 +67,10 @@
     >> PROGRESS: <span style="color:#FFD700">65%</span><br>
     >> ETA: <span style="color:#FF00FF">2025.07.24</span><br>
     
-    <!-- Barra de progreso funcional con imagen -->
-    <img src="https://progress-bar.dev/65/?title=LOADING&width=400&color=b84fe2" alt="Progress Bar" style="margin:10px 0;">
+    <!-- Barra de progreso funcional -->
+    <img src="https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=006600" width="100%" alt="Progress Bar">
     
-    <div style="color:#888; font-size:0.8em;">
+    <div style="color:#888; font-size:0.8em; margin-top:10px;">
       > Compiling components... [87%]<br>
       > Optimizing performance... [42%]
     </div>
@@ -85,7 +79,7 @@
 
 <!-- Tech Stack -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&width=500&lines=%3E%3E_TECHNOLOGY_MATRIX" alt="Tech Stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&width=500&lines=>>_TECHNOLOGY_MATRIX" alt="Tech Stack"/>
   
   <div style="
     display: flex;
@@ -106,7 +100,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=%3E%3E_PERFORMANCE_METRICS" alt="Metrics"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=>>_PERFORMANCE_METRICS" alt="Metrics"/>
   
   <div style="
     display: flex;
@@ -123,5 +117,5 @@
 
 <!-- Efecto de cierre -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF00FF&width=600&lines=%3E%3E%3E_SESSION_TERMINATED...;%3E%3E%3E_STAY_WIRED...;%3E%3E%3E_EXECUTION_COMPLETE" alt="Closing effect"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF00FF&width=600&lines=>>>_SESSION_TERMINATED...;>>>_STAY_WIRED...;>>>_EXECUTION_COMPLETE" alt="Closing effect"/>
 </p>
