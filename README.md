@@ -1,8 +1,8 @@
 <p align="center">
-  <!-- Cabecera con efecto matriz (SVG alternativa funcional) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF00FF¢er=true&vCenter=true&width=580&lines=%E2%96%88%E2%96%88%E2%96%88%5BANGELO_ROMANO%5D%E2%96%88%E2%96%88%E2%96%88" alt="Título Cyberpunk"/>
-  <!-- Subtítulo animado alternativo -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00FF00¢er=true&repeat=true&width=580&lines=%3E_AI_ARCHITECT%3A_ACTIVE;%3E%3E_AUTOMATION_SORCERER%3A_ONLINE;%3E%3E%3E_CYBERPUNK_DEVELOPER%3A_SYNCED" alt="Roles"/>
+  <!-- Cabecera con efecto matriz (SVG corregido) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF00FF¢er=true&vCenter=true&width=580&lines=â–ˆâ–€â–ˆâ–€â–ˆ[ANGELO_ROMANO]â–ˆâ–€â–ˆâ–€â–ˆ" alt="Título Cyberpunk"/>
+  <!-- Subtítulo animado corregido -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00FF00¢er=true&repeat=true&width=580&lines=>_AI_Architect:Active;>>_Authomization_Sorcerer:Online;>>>_CYBERPUNK_DEVELOPER:Synchronized" alt="Roles"/>
 </p>
 
 <!-- Banner dinámico -->
@@ -12,13 +12,13 @@
 
 <!-- Error de avatar -->
 <p align="center">
-  <img src="https://i.imgur.com/3yQz4DQ.gif" alt="Avatar con fallos" width="150" />
+  <img src="https://i.imgur.com/3yQz4DQ.gif" alt="Error de avatar" width="150" />
 </p>
 
 <!-- Panel de estado con diseño de terminal -->
 <div align="center">
 
-``golpe
+```
 â•â”€[ESTADO DEL SISTEMA]â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•®
 â”‚ UBICACIÓN: GUADALAJARA_TECHHUB â”‚
 — MISIÓN: CONSTRUYENDO EL FUTURO —
@@ -30,7 +30,7 @@
 
 <!-- Biografía -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=%3E%3E_BIOGRAPHY_ANALYSIS" alt="Biografía"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=>>_BIOGRAPHY_ANALYSIS" alt="Biografía"/>
 </p>
 
 <pre>
@@ -46,8 +46,8 @@
 
 <div align="center">
 
-``golpe
-// ESTADO DE DESPLIEGUE
+```
+>> ESTADO DE DESPLIEGUE
 >> PROYECTO: PORTAFOLIO_V2.0
 >> PROGRESO: 65%
 >> Hora estimada de llegada: 2025.07.24
@@ -56,7 +56,7 @@
 <!-- Barra de progreso visual -->
 ![Barra de progreso](https://progress-bar.dev/65/?scale=100&width=400&color=b84fe2&suffix=%25)
 
-``golpe
+```
 > Compilando componentes... [87%]
 > Optimizando el rendimiento... [42%]
 ```
@@ -65,7 +65,7 @@
 
 <!-- Insignias de Tech Stack Con -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&width=500&lines=%3E%3E_TECHNOLOGY_MATRIX" alt="Pila tecnológica"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&width=500&lines=>>_TECHNOLOGY_MATRIX" alt="Pila tecnológica"/>
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@
 
 <!-- GitHub Stats con estilo hacker -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=%3E%3E_PERFORMANCE_METRICS" alt="Métricas"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=>>_PERFORMANCE_METRICS" alt="Métricas"/>
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@
   <img src="https://streak-stats.demolab.com?user=angeloromano51&theme=highcontrast&hide_border=true&background=000000&stroke=00FF00" />
 </p>
 
-<!-- Pie de página animado -->
+<!-- Pie de página animada -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=FF00FF&width=600&lines=%3E%3E%3E_SESSION_TERMINATED...;%3E%3E%3E_STAY_WIRED...;%3E%3E%3E_EXECUTION_COMPLETE" alt="Efecto de cierre"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=FF00FF&width=600&lines=>>>_SESIÓN_TERMINADA...;>>>_CONECTADO...;>>>_EJECUCIÓN_COMPLETA" alt="Efecto de cierre"/>
 </p>
