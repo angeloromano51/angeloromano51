@@ -1,17 +1,22 @@
 <p align="center">
-  <!-- Cabecera con efecto matriz corregido -->
+  <!-- Título con efecto de máquina de escribir -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=580&lines=%E2%96%88%E2%96%88%E2%96%88%5BANGELO_ROMANO%5D%E2%96%88%E2%96%88%E2%96%88" alt="Título Cyberpunk"/>
   
-  <!-- Subtítulo animado corregido -->
+  <!-- Subtítulo animado -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00FF00&center=true&repeat=true&width=580&lines=%3E_AI_ARCHITECT%3A_ACTIVE;%3E%3E_AUTOMATION_SORCERER%3A_ONLINE;%3E%3E%3E_CYBERPUNK_DEVELOPER%3A_SYNCED" alt="Roles"/>
 </p>
 
-<!-- Banner dinámico (reemplaza con tu URL) -->
+<!-- Banner funcional (imagen alojada en Imgur) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/angeloromano51/angeloromano51/main/assets/cyber-banner.gif" alt="Banner ciberpunk" width="700"/>
+  <img src="https://i.imgur.com/Jr6s8Wj.gif" alt="Banner Cyberpunk" width="700"/>
 </p>
 
-<!-- Panel de estado con diseño de terminal corregido -->
+<!-- Avatar animado -->
+<p align="center">
+  <img src="https://i.imgur.com/3yQz4DQ.gif" width="150" alt="Avatar Cyberpunk"/>
+</p>
+
+<!-- Panel de estado estilo terminal -->
 <div align="center">
 <pre style="
   background: #0d1117;
@@ -21,6 +26,7 @@
   font-family: 'Courier New', monospace;
   max-width: 700px;
   margin: 20px auto;
+  text-shadow: 0 0 5px #00FF00;
 ">
 ╭─[SYSTEM STATUS]───────────────────╮
 │ LOCATION: GUADALAJARA_TECHHUB     │
@@ -30,27 +36,27 @@
 </pre>
 </div>
 
-<!-- Biografía corregida -->
+<!-- Sección Biografía -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=%3E%3E_BIOGRAPHY_ANALYSIS" alt="Biografía"/>
   
-  <pre style="
-    background: #0d1117;
-    color: #CCCCCC;
-    border-left: 3px solid #00FFFF;
+  <div style="
+    background: rgba(13, 17, 23, 0.8);
+    border-left: 3px solid #FF00FF;
     padding: 15px;
-    font-family: 'Courier New', monospace;
     max-width: 650px;
     margin: 15px auto;
-    text-align: left;
+    font-family: 'Courier New', monospace;
+    color: #CCCCCC;
+    position: relative;
   ">
-  >> Cyber Systems Engineer from <span style="color:#FFD700">México</span>
-  >> Specializing in <span style="color:#00FFFF">AI/ML</span> and Automation
-  >> Building <span style="color:#FF00FF">next-gen solutions</span> since 2018
-  </pre>
+    <span style="color:#FF00FF">>></span> Cyber Systems Engineer from <span style="color:#FFD700">México</span><br>
+    <span style="color:#FF00FF">>></span> Specializing in <span style="color:#00FFFF">AI/ML</span> and Automation<br>
+    <span style="color:#FF00FF">>></span> Building <span style="color:#FF00FF">next-gen solutions</span> since 2018
+  </div>
 </div>
 
-<!-- Estado de desarrollo corregido -->
+<!-- Estado de desarrollo con barra de progreso funcional -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=600&lines=%3E%3E_DEPLOYMENT_STATUS" alt="Deployment Status"/>
   
@@ -63,33 +69,21 @@
     font-family: 'Courier New', monospace;
     color: #00FF00;
   ">
-    >> PROJECT: <span style="color:#FFD700">PORTFOLIO_V2.0</span>
-    >> PROGRESS: <span style="color:#FFD700">65%</span>
-    >> ETA: <span style="color:#FF00FF">2025.07.24</span>
+    >> PROJECT: <span style="color:#FFD700">PORTFOLIO_V2.0</span><br>
+    >> PROGRESS: <span style="color:#FFD700">65%</span><br>
+    >> ETA: <span style="color:#FF00FF">2025.07.24</span><br>
     
-    <!-- Barra de progreso funcional -->
-    <div style="
-      background: #000033;
-      height: 10px;
-      margin-top: 10px;
-      border-radius: 5px;
-      overflow: hidden;
-    ">
-      <div style="
-        background: linear-gradient(90deg, #00FF00, #00FFFF);
-        width: 65%;
-        height: 100%;
-      "></div>
-    </div>
+    <!-- Barra de progreso funcional con imagen -->
+    <img src="https://progress-bar.dev/65/?title=LOADING&width=400&color=b84fe2" alt="Progress Bar" style="margin:10px 0;">
     
-    <div style="color:#888; font-size:0.8em; margin-top:8px;">
-      > Compiling components... [87%]
+    <div style="color:#888; font-size:0.8em;">
+      > Compiling components... [87%]<br>
       > Optimizing performance... [42%]
     </div>
   </div>
 </div>
 
-<!-- Tech Stack corregido -->
+<!-- Tech Stack -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&width=500&lines=%3E%3E_TECHNOLOGY_MATRIX" alt="Tech Stack"/>
   
@@ -110,7 +104,7 @@
   </div>
 </div>
 
-<!-- GitHub Stats corregido -->
+<!-- GitHub Stats -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=%3E%3E_PERFORMANCE_METRICS" alt="Metrics"/>
   
@@ -127,7 +121,7 @@
   </div>
 </div>
 
-<!-- Pie de página corregido -->
+<!-- Efecto de cierre -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF00FF&width=600&lines=%3E%3E%3E_SESSION_TERMINATED...;%3E%3E%3E_STAY_WIRED...;%3E%3E%3E_EXECUTION_COMPLETE" alt="Closing effect"/>
 </p>
