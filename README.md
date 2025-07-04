@@ -1,150 +1,50 @@
 <p align="center">
   <!-- Cabecera con efecto matrix (usando SVG animado) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=580&lines=%E2%96%88%E2%96%88%E2%96%88%5BANGELO_ROMANO%5D%E2%96%88%E2%96%88%E2%96%88" alt="Título Cyberpunk"/>
-  
-  <!-- Subtítulo animado -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00FF00&center=true&repeat=true&width=580&lines=%3E_AI_ARCHITECT%3A_ACTIVE;%3E%3E_AUTOMATION_SORCERER%3A_ONLINE;%3E%3E%3E_CYBERPUNK_DEVELOPER%3A_SYNCED" alt="Roles"/>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=580&lines=%E2%96%88%E2%96%88%E2%96%88%5BANGELO_ROMANO%5D%E2%96%88%E2%96%88%E2%96%88" alt="Título Cyberpunk"/>  <!-- Subtítulo animado -->  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00FF00&center=true&repeat=true&width=580&lines=%3E_AI_ARCHITECT%3A_ACTIVE;%3E%3E_AUTOMATION_SORCERER%3A_ONLINE;%3E%3E%3E_CYBERPUNK_DEVELOPER%3A_SYNCED" alt="Roles"/>
+</p><!-- Banner dinámico --><p align="center">
+  <img src="https://i.imgur.com/qD1Yz5r.gif" alt="Cyberpunk Banner" width="700"/>
+</p><!-- Avatar Glitch --><p align="center">
+  <img src="https://i.imgur.com/3yQz4DQ.gif" alt="Glitched Avatar" width="150" />
+</p><!-- Panel de estado con diseño de terminal --><div align="center">╭─[SYSTEM STATUS]────────────────────╮
+│ LOCATION: GUADALAJARA_TECHHUB      │
+│ MISSION: BUILDING_THE_FUTURE       │
+│ STATUS: ONLINE 🟢                  │
+╰──────────────────[2025.07.03]──────╯
 
-<!-- Panel de estado con diseño de terminal -->
-<div align="center" style="
-    background: #0d1117;
-    border: 1px solid #FF00FF;
-    padding: 15px;
-    margin: 20px auto;
-    max-width: 700px;
-    font-family: 'Courier New', monospace;
-    color: #00FF00;
-">
-  ╭─[SYSTEM STATUS]─────────────────╮<br>
-  │ LOCATION: GUADALAJARA_TECHHUB   │<br>
-  │ MISSION: BUILDING_THE_FUTURE    │<br>
-  │ STATUS: <span style="color:#00FF00">ONLINE</span> 🟢                │<br>
-  ╰──────────────────[2025.07.03]──╯
-</div>
-
-<!-- Sección "About Me" -->
-<div align="center">
+</div><!-- Biografía --><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=%3E%3E_BIOGRAPHY_ANALYSIS" alt="Biography"/>
-  
-  <div style="
-    background: rgba(13, 17, 23, 0.8);
-    border-left: 3px solid #FF00FF;
-    padding: 15px;
-    max-width: 650px;
-    margin: 15px auto;
-    text-align: left;
-    font-family: 'Courier New', monospace;
-    color: #CCCCCC;
-  ">
-    <span style="color:#FF00FF">>></span> Cyber Systems Engineer from <span style="color:#FFD700">México</span><br>
-    <span style="color:#FF00FF">>></span> Specializing in <span style="color:#00FFFF">AI/ML</span> and <span style="color:#00FFFF">Automation</span><br>
-    <span style="color:#FF00FF">>></span> Building <span style="color:#FF00FF">next-gen solutions</span> since 010101<br><br>
-    
-   <div style="
-  background: #0d1117;
-  padding: 12px;
-  border: 1px solid #00FFFF;
-  border-left: 4px solid #FF00FF;
-  margin: 15px 0;
-  font-family: 'Courier New', monospace;
-  position: relative;
-">
-  <!-- Efecto de terminal -->
-  <div style="
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: 
-      linear-gradient(rgba(0, 255, 255, 0.05) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(0, 255, 255, 0.05) 1px, transparent 1px);
-    background-size: 10px 10px;
-    pointer-events: none;
-  "></div>
+</p><pre>
+>> Cyber Systems Engineer from México
+>> Specializing in AI/ML and Automation
+>> Building next-gen solutions since 010101
+</pre><!-- Estado de desarrollo con efecto visual --><p align="center">
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="600" alt="Matrix Code Rain">
+</p><div align="center">// DEPLOYMENT STATUS
+>> PROJECT: PORTFOLIO_V2.0
+>> PROGRESS: 65%
+>> ETA: 2025.07.24
 
-  <span style="color:#888">// DEPLOYMENT STATUS</span><br>
-  <span style="color:#00FF00">>> PROJECT:</span> <span style="color:#FFD700">PORTFOLIO_V2.0</span><br>
-  <span style="color:#00FF00">>> PROGRESS:</span> <span style="color:#FFD700">65%</span><br>
-  <span style="color:#00FF00">>> ETA:</span> <span style="color:#FF00FF">2025.07.24</span><br>
-  
-  <!-- Barra de progreso mejorada -->
-  <div style="
-    background: #000033;
-    height: 10px;
-    margin-top: 10px;
-    border-radius: 5px;
-    overflow: hidden;
-    position: relative;
-  ">
-    <div style="
-      background: linear-gradient(90deg, #00FF00, #00FFFF);
-      width: 65%;
-      height: 100%;
-      border-radius: 5px;
-      animation: pulse 2s infinite;
-    "></div>
-    <div style="
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: 
-        linear-gradient(90deg, 
-          transparent 65%, 
-          rgba(0, 255, 255, 0.2) 65%, 
-          rgba(0, 255, 255, 0.2) 100%);
-    "></div>
-  </div>
-  
-  <span style="color:#888;font-size:0.8em;display:block;margin-top:5px;">
-    > Compiling components... [87%]<br>
-    > Optimizing performance... [42%]
-  </span>
-</div>
-  </div>
-</div>
+<!-- Barra de progreso visual -->
 
-<!-- Tech Stack con badges animados -->
-<div align="center">
+> Compiling components... [87%]
+> Optimizing performance... [42%]
+
+</div><!-- Tech Stack con badges --><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&width=500&lines=%3E%3E_TECHNOLOGY_MATRIX" alt="Tech Stack"/>
-  
-  <div style="
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-    max-width: 700px;
-    margin: 20px auto;
-  ">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFDE57&color=2E8B57" alt="Python">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=FF4500" alt="Java">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/n8n-4A148C?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-    <img src="https://img.shields.io/badge/MacroDroid-FF8C00?style=for-the-badge&logo=android&logoColor=white" alt="MacroDroid">
-  </div>
-</div>
-
-<!-- GitHub Stats con efecto "hacking" -->
-<div align="center">
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFDE57&color=2E8B57" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=FF4500" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-4A148C?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/MacroDroid-FF8C00?style=for-the-badge&logo=android&logoColor=white" />
+</p><!-- GitHub Stats con estilo hacker --><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=500&lines=%3E%3E_PERFORMANCE_METRICS" alt="Metrics"/>
-  
-  <div style="
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    margin: 25px 0;
-  ">
-    <img src="https://github-readme-stats.vercel.app/api?username=angeloromano51&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF00FF&text_color=00FF00&icon_color=00FFFF&hide_border=true" alt="Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloromano51&layout=compact&theme=radical&bg_color=0d1117&title_color=FF00FF&text_color=00FF00&hide_border=true" alt="Top Langs"/>
-  </div>
-</div>
-
-<!-- Efecto de cierre con animación -->
-<p align="center" style="margin: 40px 0 20px 0;">
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angeloromano51&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF00FF&text_color=00FF00&icon_color=00FFFF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloromano51&layout=compact&theme=radical&bg_color=0d1117&title_color=FF00FF&text_color=00FF00&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=angeloromano51&theme=highcontrast&hide_border=true&background=000000&stroke=00FF00" />
+</p><!-- Footer animado --><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF00FF&width=600&lines=%3E%3E%3E_SESSION_TERMINATED...;%3E%3E%3E_STAY_WIRED...;%3E%3E%3E_EXECUTION_COMPLETE" alt="Closing effect"/>
 </p>
