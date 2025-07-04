@@ -41,15 +41,69 @@
     <span style="color:#FF00FF">>></span> Specializing in <span style="color:#00FFFF">AI/ML</span> and <span style="color:#00FFFF">Automation</span><br>
     <span style="color:#FF00FF">>></span> Building <span style="color:#FF00FF">next-gen solutions</span> since 010101<br><br>
     
+   <div style="
+  background: #0d1117;
+  padding: 12px;
+  border: 1px solid #00FFFF;
+  border-left: 4px solid #FF00FF;
+  margin: 15px 0;
+  font-family: 'Courier New', monospace;
+  position: relative;
+">
+  <!-- Efecto de terminal -->
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: 
+      linear-gradient(rgba(0, 255, 255, 0.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0, 255, 255, 0.05) 1px, transparent 1px);
+    background-size: 10px 10px;
+    pointer-events: none;
+  "></div>
+
+  <span style="color:#888">// DEPLOYMENT STATUS</span><br>
+  <span style="color:#00FF00">>> PROJECT:</span> <span style="color:#FFD700">PORTFOLIO_V2.0</span><br>
+  <span style="color:#00FF00">>> PROGRESS:</span> <span style="color:#FFD700">65%</span><br>
+  <span style="color:#00FF00">>> ETA:</span> <span style="color:#FF00FF">2025.07.24</span><br>
+  
+  <!-- Barra de progreso mejorada -->
+  <div style="
+    background: #000033;
+    height: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+  ">
     <div style="
-      background: #000033;
-      padding: 8px;
-      border: 1px dashed #00FFFF;
-    ">
-      <span style="color:#888">// CURRENTLY HACKING:</span><br>
-      [<span style="color:#00FF00">███████████████░░░░░░░</span>] <span style="color:#FFD700">65%</span><br>
-      <span style="color:#888;font-size:0.8em">> PORTFOLIO_V2.0 (ETA: 2025.07.24)</span>
-    </div>
+      background: linear-gradient(90deg, #00FF00, #00FFFF);
+      width: 65%;
+      height: 100%;
+      border-radius: 5px;
+      animation: pulse 2s infinite;
+    "></div>
+    <div style="
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: 
+        linear-gradient(90deg, 
+          transparent 65%, 
+          rgba(0, 255, 255, 0.2) 65%, 
+          rgba(0, 255, 255, 0.2) 100%);
+    "></div>
+  </div>
+  
+  <span style="color:#888;font-size:0.8em;display:block;margin-top:5px;">
+    > Compiling components... [87%]<br>
+    > Optimizing performance... [42%]
+  </span>
+</div>
   </div>
 </div>
 
