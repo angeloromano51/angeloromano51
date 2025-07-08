@@ -44,3 +44,17 @@
   SEMESTRE:    [1]
   ESTADO:  [EN APRENDIZAJE 🟦]  
 ╰────────────────────────────────╯
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/python.png" width="50" style="border-radius: 50%; border: 2px solid #4DAAFF; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Python"/>
+  </a>
+  <a href="https://n8n.io/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-n8n-an-open-source-workflow-automation-tool-logo-shadow-tal-revivo.png" width="50" style="border-radius: 50%; border: 2px solid #9EE8FF; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="n8n"/>
+  </a>
+  <a href="https://www.macrodroid.com/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-macrodroid-a-task-automation-and-configuration-application-logo-filled-tal-revivo.png" width="50" style="border-radius: 50%; border: 2px solid #FFD43B; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Macrodroid"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/50/000000/canva.png" width="50" style="border-radius: 50%; border: 2px solid #FF6D01; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Canva"/>
+  </a>
+</p>
