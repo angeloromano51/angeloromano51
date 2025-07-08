@@ -26,7 +26,7 @@
 🚀 BIOGRAFÍA_ACADÉMICA
 
 > 🌌 Estudiante de Ingeniería en Sistemas/CP  
-> 🛰️ Explorando el universo de la tecnología desde 2020  
+> 🛰️ Explorando el universo de la tecnología   
 > 📡 En formación constante con open-source y robótica  
 > 📚 "El conocimiento es la última frontera"  
 
@@ -36,7 +36,7 @@
 
 ```plaintext
 ╭─[MISIÓN_ACADÉMICA]──────────────╮
-│  UNIVERSIDAD: [UTEL]  │
-│  SEMESTRE:    [1]     │
-│  ESTADO:  [EN APRENDIZAJE 🟦]  │
+  UNIVERSIDAD: [UTEL]            
+  SEMESTRE:    [1]
+  ESTADO:  [EN APRENDIZAJE 🟦]  
 ╰────────────────────────────────╯
