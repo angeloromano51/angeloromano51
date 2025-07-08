@@ -20,6 +20,10 @@
     <img src="https://raw.githubusercontent.com/angeloromano51/cyberpunk-readme-assets/main/space-banner.gif" width="100%" alt="Space Banner"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://github.com/angeloromano51.png" width="200" style="border-radius: 50%; border: 3px solid #4DAAFF;" alt="Mi Avatar"/>
+</p>
+
 
 ---
 
