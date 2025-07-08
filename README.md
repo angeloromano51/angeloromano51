@@ -38,23 +38,29 @@
 
 🛰️ ESTADO_DE_LA_MISIÓN
 
-```plaintext
-╭─[MISIÓN_ACADÉMICA]──────────────╮
-  UNIVERSIDAD: [UTEL]            
-  SEMESTRE:    [1]
-  ESTADO:  [EN APRENDIZAJE 🟦]  
-╰────────────────────────────────╯
+╭─[MISIÓN_ACADÉMICA]──────────────────╮
+│  UNIVERSIDAD: UTEL                  │
+│  SEMESTRE:    1°                    │
+│  ESTADO:      EN_APRENDIZAJE 🟦     │
+│  ESPECIALIDAD: SISTEMAS_COMPUTACIONALES │
+╰────────────────────────────────────╯
+
 <p align="center">
+  <!-- TECH STACK WITH SPACE-THEMED BORDERS -->
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.icons8.com/color/50/000000/python.png" width="50" style="border-radius: 50%; border: 2px solid #4DAAFF; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Python"/>
+    <img src="https://img.icons8.com/color/50/000000/python.png" width="50" style="border-radius: 50%; border: 2px solid #4DAAFF; transition: transform 0.3s; background: #0d1117;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 10px #4DAAFF'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" title="Python"/>
   </a>
   <a href="https://n8n.io/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-n8n-an-open-source-workflow-automation-tool-logo-shadow-tal-revivo.png" width="50" style="border-radius: 50%; border: 2px solid #9EE8FF; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="n8n"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-n8n-an-open-source-workflow-automation-tool-logo-shadow-tal-revivo.png" width="50" style="border-radius: 50%; border: 2px solid #9EE8FF; transition: transform 0.3s; background: #0d1117;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 10px #9EE8FF'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" title="n8n"/>
   </a>
   <a href="https://www.macrodroid.com/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-macrodroid-a-task-automation-and-configuration-application-logo-filled-tal-revivo.png" width="50" style="border-radius: 50%; border: 2px solid #FFD43B; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Macrodroid"/>
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-macrodroid-a-task-automation-and-configuration-application-logo-filled-tal-revivo.png" width="50" style="border-radius: 50%; border: 2px solid #FFD43B; transition: transform 0.3s; background: #0d1117;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 10px #FFD43B'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" title="Macrodroid"/>
   </a>
   <a href="https://www.canva.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/50/000000/canva.png" width="50" style="border-radius: 50%; border: 2px solid #FF6D01; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Canva"/>
+    <img src="https://img.icons8.com/fluency/50/000000/canva.png" width="50" style="border-radius: 50%; border: 2px solid #FF6D01; transition: transform 0.3s; background: #0d1117;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 10px #FF6D01'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" title="Canva"/>
   </a>
 </p>
+
+<!-- OPTIONAL SPACER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
