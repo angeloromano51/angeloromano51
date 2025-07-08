@@ -1,5 +1,5 @@
 <!-- ########################################## -->
-<!-- PERFIL GALÁCTICO v1.0 - ESTUDIANTE DE TECNOLOGÍA -->
+<!-- PERFIL GALÁCTICO v1.0 - ESTUDIANTE ing.sistemasComputacionales -->
 <!-- ########################################## -->
 
 <p align="center">
