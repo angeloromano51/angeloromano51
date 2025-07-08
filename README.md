@@ -25,7 +25,7 @@
 
 🚀 BIOGRAFÍA_ACADÉMICA
 
-> 🌌 Estudiante de Ingeniería en Sistemas/AI  
+> 🌌 Estudiante de Ingeniería en Sistemas/CP  
 > 🛰️ Explorando el universo de la tecnología desde 2020  
 > 📡 En formación constante con open-source y robótica  
 > 📚 "El conocimiento es la última frontera"  
@@ -37,6 +37,6 @@
 ```plaintext
 ╭─[MISIÓN_ACADÉMICA]──────────────╮
 │  UNIVERSIDAD: [SISTEMAS_GXPTO]  │
-│  SEMESTRE:    [EN_PROGRESO]     │
-│  ESTADO:      [APRENDIZAJE 🟦]  │
+│  SEMESTRE:    [1]     │
+│  ESTADO:  [EN APRENDIZAJE 🟦]  │
 ╰────────────────────────────────╯
