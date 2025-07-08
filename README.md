@@ -11,7 +11,7 @@
 
 <p align="center">
   <!-- ROLES ANIMADOS (ESTILO CONTROL DE MISIÓN) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1500&color=9EE8FF&center=true&vCenter=true&width=650&lines=%E2%96%B6+EstudiandoIngSCP%3A%3A%5BEN_FORMACI%C3%93N%5D;%E2%96%B6+DESARROLLADOR%C3%81%3%3A%5BAPRENDIENDO%5D;%E2%96%B6+FUTURO_INGENIERO%3A%3A%5BMISI%C3%93N_EN_CURSO%5D" alt="Roles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1500&color=9EE8FF&center=true&vCenter=true&width=650&lines=%E2%96%B6+EstudiandoIngSCP%3A%3A%5BEN_FORMACI%C3%93N%5D;%E2%96%B6+DESARROLLADOR%C3%81%3%3%APRENDIENDO%5D;%E2%96%B6+FUTURO_INGENIERO%3A%3A%5BMISI%C3%93N_EN_CURSO%5D" alt="Roles"/>
 </p>
 
 <p align="center">
