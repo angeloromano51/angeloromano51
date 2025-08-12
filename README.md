@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/angeloromano51">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=4000&pause=1000&color=4DAAFF&center=true&vCenter=true&width=600&lines=CYBERPUNK;CYBER_ENGINEER;ANGELO_ROMANO%28%3A3%29" alt="Título Animado"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=4000&pause=1000&color=4DAAFF&center=true&vCenter=true&width=600&lines=ENGINEER;ANGELO_ROMANO%28%3A3%29" alt="Título Animado"/>
   </a>
 </p>
 
