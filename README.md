@@ -20,7 +20,7 @@
 
 ---
 
-### 🌐 BIOGRAFÍA_CIBERNÉTICA
+### 🌐 BIOGRAFÍA
 
 > 🤖 Estudiante de **Ingeniería en Sistemas Computacionales** con una mente analítica y pasión por la resolución de problemas complejos.
 > 🌌 Explorando la robótica y el código abierto, buscando fusionar la lógica de la máquina con la creatividad humana.
@@ -134,7 +134,7 @@ Para ver el CV completo, haz clic en el botón de abajo.
   <a href="mailto:angelardo67@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/angelo-romano-castellanos-cetto-4b01b2143/" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/inwww.linkedin.com/in/angelo-romano-castellanos-cetto-4b01b2143" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
