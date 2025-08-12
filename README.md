@@ -44,7 +44,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" style="filter: drop-shadow(0 0 5px #007ACC); border-radius: 50%; background: #0d1117; padding: 5px;" title="Visual Studio Code"/>
   </a>
   <a href="https://n8n.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/angeloromano51/cyberpunk-readme-assets/main/icons/n8n.svg" width="50" style="filter: drop-shadow(0 0 5px #9EE8FF); border-radius: 50%; background: #0d1117; padding: 5px;" title="n8n"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/n8n.svg" width="50" style="filter: drop-shadow(0 0 5px #9EE8FF); border-radius: 50%; background: #0d1117; padding: 5px;" title="n8n"/>
   </a>
   <a href="https://www.canva.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" style="filter: drop-shadow(0 0 5px #FF6D01); border-radius: 50%; background: #0d1117; padding: 5px;" title="Canva"/>
@@ -83,50 +83,4 @@ Para ver el CV completo, haz clic en el botón de abajo.
 - **Ayudante General | Aceros Corei (2019 - 2021)**
   - Montaje de estructuras metálicas, utilizando herramientas manuales y eléctricas.
 - **Reparador Técnico de Dispositivos | Quau (Servicio Independiente) (2018 - 2019)**
-  - Diagnóstico y reparación integral de teléfonos móviles y computadoras personales.
-- **Ajustador de Herramental y Sistemas | HELLA (2017 - 2018)**
-  - Ajuste y calibración de maquinaria y herramental en líneas de producción de faros automotrices.
-- **Capturista Aduanero | Empaques Modernos de Guadalajara (2016 - 2017)**
-  - Gestión de inventario y captura de datos en SAP.
-- **Líder de Línea de Producción | HP (Dulces) (2015 - 2016)**
-  - Supervisión de la línea de producción e implementación de controles de calidad.
-- **Asistente Administrativo y Jurídico | DIF El Salto, Jalisco (2014 - 2015)**
-  - Elaboración de documentos legales y administrativos.
-- **Asistente General de Desarrollo Social | Ayuntamiento de El Salto, Jalisco (2013 - 2014)**
-  - Gestión y seguimiento de programas sociales.
-
-#### 🎓 **FORMACIÓN_ACADÉMICA**
-- **Ingeniería en Sistemas Computacionales (En curso)** | UTEL
-- **Técnico en Equipos de Refrigeración** | Cecati
-- **Preparatoria** | Preparatoria El Salto Nocturna
-- **Carrera Trunca en Derecho (2° semestre)** | Universidad Ul Nocturna
-
-#### 🔧 **HABILIDADES_TÉCNICAS**
-- **Mantenimiento Industrial:** Preventivo y correctivo de maquinaria, sistemas eléctricos, neumáticos e hidráulicos.
-- **Electricidad y Control:** Diagnóstico y reparación de sistemas eléctricos, cableado y circuitos.
-- **Soldadura:** Habilidad en diversas técnicas (TIG, MIG, Arco).
-- **Informática:** Manejo avanzado de sistemas operativos (Windows), instalación y mantenimiento de hardware y software.
-- **Programación:** Fundamentos básicos en HTML, CSS, JavaScript y Python para scripting.
-- **Sistemas:** Nociones de redes (TCP/IP), sistemas operativos y seguridad informática.
-- **Reparación Técnica:** Diagnóstico y reparación de PCs, laptops y móviles.
-- **Herramientas Específicas:** Dominio de SAP y Paquetería Office.
-- **Aprendizaje Continuo:** Actualmente en profundización de programación avanzada e IA.
-
-#### 🤝 **COMPETENCIAS**
-- Liderazgo y gestión de equipos.
-- Orientación al detalle y resolución de problemas.
-- Aprendizaje continuo y autodidacta.
-- Comunicación efectiva y habilidades interpersonales.
-
----
-
-### 💬 CONTACTO
-
-<p align="center">
-  <a href="mailto:angelardo67@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/angelo-romano-castellanos-cetto-4b01b2143" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+  - Diagnóstico y reparación integral de teléfonos móviles y computadoras
