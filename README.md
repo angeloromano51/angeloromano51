@@ -55,8 +55,10 @@
 
 ### 📂 PROYECTOS_DESTACADOS
 
-> 🛠️ [Nombre del Proyecto 1](enlace_al_repositorio) - *Una breve descripción del proyecto.*
-> 🚀 [Nombre del Proyecto 2](enlace_al_repositorio) - *Una breve descripción del proyecto.*
+> 🛠️ **Gestor de Gastos Personales** - [Repositorio](https://github.com/angeloromano51/gestor-gastos-excel)
+> *Una plantilla de Excel para llevar un registro de tus finanzas personales de manera sencilla y eficiente. Permite visualizar gastos por categoría y mes.*
+> 🚀 **Planificador de Proyectos Ágiles** - [Repositorio](https://github.com/angeloromano51/planificador-agil-excel)
+> *Una plantilla de Excel para la gestión básica de proyectos con metodología ágil. Incluye pestañas para el backlog, sprints y seguimiento de tareas.*
 
 ---
 
@@ -134,7 +136,7 @@ Para ver el CV completo, haz clic en el botón de abajo.
   <a href="mailto:angelardo67@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/inwww.linkedin.com/in/angelo-romano-castellanos-cetto-4b01b2143" target="_blank">
+  <a href="https://www.linkedin.com/in/angelo-romano-castellanos-cetto-4b01b2143" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
