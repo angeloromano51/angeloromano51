@@ -53,15 +53,6 @@
 
 ---
 
-### 📂 PROYECTOS_DESTACADOS
-
-> 🛠️ **Gestor de Gastos Personales** - [Repositorio](https://github.com/angeloromano51/gestor-gastos-excel)
-> *Una plantilla de Excel para llevar un registro de tus finanzas personales de manera sencilla y eficiente. Permite visualizar gastos por categoría y mes.*
-> 🚀 **Planificador de Proyectos Ágiles** - [Repositorio](https://github.com/angeloromano51/planificador-agil-excel)
-> *Una plantilla de Excel para la gestión básica de proyectos con metodología ágil. Incluye pestañas para el backlog, sprints y seguimiento de tareas.*
-
----
-
 ### 📄 EXPEDIENTE_PROFESIONAL
 
 Para ver el CV completo, haz clic en el botón de abajo.
@@ -76,67 +67,4 @@ Para ver el CV completo, haz clic en el botón de abajo.
 ### **CV_COMPLETO**
 
 #### 👤 **PERFIL_PROFESIONAL**
-> Técnico en mantenimiento con más de 5 años de experiencia en reparación de equipos industriales, refrigeración, electrónica y soporte técnico. Apasionado por la tecnología y en constante formación en informática y programación. Actualmente, cursando Ingeniería en Sistemas Computacionales en UTEL para robustecer mis habilidades en reparación de hardware y software, con conocimientos básicos en desarrollo web, automatización y diseño de interfaz de usuario. Mi enfoque es la innovación, el liderazgo y la mejora continua, buscando soluciones eficientes para optimizar procesos y sistemas.
-
-#### 💼 **EXPERIENCIA_LABORAL**
-- **Técnico de Mantenimiento | DEMSA (2024 - Presente)**
-  - Mantenimiento preventivo y correctivo de maquinaria y equipos industriales, asegurando su operatividad.
-- **Técnico de Mantenimiento | LPET (2023 - 2024)**
-  - Realización de tareas de mantenimiento y reparación en diversas instalaciones.
-- **Técnico en Mantenimiento General | Serv Industrial (2022 - 2023)**
-  - Diagnóstico de fallas y ejecución de mantenimiento en equipos de cocina, refrigeración y aire acondicionado.
-- **Jefe de Mantenimiento | Price Shoes (2022)**
-  - Coordinación y supervisión de equipo técnico.
-  - Supervisión de instalaciones eléctricas y sistemas de climatización.
-- **Soldador Junior | Tecnometal (2021 - 2022)**
-  - Fabricación y ensamblaje de mobiliario médico en acero inoxidable.
-- **Ayudante General | Aceros Corei (2019 - 2021)**
-  - Montaje de estructuras metálicas, utilizando herramientas manuales y eléctricas.
-- **Reparador Técnico de Dispositivos | Quau (Servicio Independiente) (2018 - 2019)**
-  - Diagnóstico y reparación integral de teléfonos móviles y computadoras personales.
-- **Ajustador de Herramental y Sistemas | HELLA (2017 - 2018)**
-  - Ajuste y calibración de maquinaria y herramental en líneas de producción de faros automotrices.
-- **Capturista Aduanero | Empaques Modernos de Guadalajara (2016 - 2017)**
-  - Gestión de inventario y captura de datos en SAP.
-- **Líder de Línea de Producción | HP (Dulces) (2015 - 2016)**
-  - Supervisión de la línea de producción e implementación de controles de calidad.
-- **Asistente Administrativo y Jurídico | DIF El Salto, Jalisco (2014 - 2015)**
-  - Elaboración de documentos legales y administrativos.
-- **Asistente General de Desarrollo Social | Ayuntamiento de El Salto, Jalisco (2013 - 2014)**
-  - Gestión y seguimiento de programas sociales.
-
-#### 🎓 **FORMACIÓN_ACADÉMICA**
-- **Ingeniería en Sistemas Computacionales (En curso)** | UTEL
-- **Técnico en Equipos de Refrigeración** | Cecati
-- **Preparatoria** | Preparatoria El Salto Nocturna
-- **Carrera Trunca en Derecho (2° semestre)** | Universidad Ul Nocturna
-
-#### 🔧 **HABILIDADES_TÉCNICAS**
-- **Mantenimiento Industrial:** Preventivo y correctivo de maquinaria, sistemas eléctricos, neumáticos e hidráulicos.
-- **Electricidad y Control:** Diagnóstico y reparación de sistemas eléctricos, cableado y circuitos.
-- **Soldadura:** Habilidad en diversas técnicas (TIG, MIG, Arco).
-- **Informática:** Manejo avanzado de sistemas operativos (Windows), instalación y mantenimiento de hardware y software.
-- **Programación:** Fundamentos básicos en HTML, CSS, JavaScript y Python para scripting.
-- **Sistemas:** Nociones de redes (TCP/IP), sistemas operativos y seguridad informática.
-- **Reparación Técnica:** Diagnóstico y reparación de PCs, laptops y móviles.
-- **Herramientas Específicas:** Dominio de SAP y Paquetería Office.
-- **Aprendizaje Continuo:** Actualmente en profundización de programación avanzada e IA.
-
-#### 🤝 **COMPETENCIAS**
-- Liderazgo y gestión de equipos.
-- Orientación al detalle y resolución de problemas.
-- Aprendizaje continuo y autodidacta.
-- Comunicación efectiva y habilidades interpersonales.
-
----
-
-### 💬 CONTACTO
-
-<p align="center">
-  <a href="mailto:angelardo67@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/angelo-romano-castellanos-cetto-4b01b2143" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+> Técnico en mantenimiento con más de 5 años de experiencia en reparación de equipos industriales, refriger
