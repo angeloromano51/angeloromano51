@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/angeloromano51">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=4000&pause=1000&color=4DAAFF&center=true&vCenter=true&width=600&lines=ENGINEER;ANGELO_ROMANO%28%3A3%29" alt="Título Animado"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=./ANGELO_ROMANO.sh;SYSTEM_ENGINEER" alt="Título Animado"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1500&color=9EE8FF&center=true&vCenter=true&width=650&lines=Buscador_de_c%C3%B3digo;Navegando_el_universo_digital;Futuro_Ingeniero%3A%3A[Misi%C3%B3n_en_curso]" alt="Roles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1500&color=00FFFF&center=true&vCenter=true&width=650&lines=STATUS%3A+COMPILING_FUTURE...;MISSION%3A+NAVIGATING_THE_DIGITAL_UNIVERSE;[BOOTING_SYSTEMS...OK]" alt="Subtítulo Animado"/>
 </p>
 
 <p align="center">
@@ -14,73 +14,137 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://github.com/angeloromano51.png" width="200" style="border-radius: 50%; border: 3px solid #00FF00; box-shadow: 0 0 25px #00FF00;" alt="Mi Avatar"/>
+</div>
+
+<pre>
+<strong>angeloromano51@github:~$</strong> cat BIO.txt
+</pre>
 <p align="center">
-  <img src="https://github.com/angeloromano51.png" width="200" style="border-radius: 50%; border: 3px solid #4DAAFF; box-shadow: 0 0 20px #4DAAFF;" alt="Mi Avatar"/>
+  <em>> <strong>[SYSTEM_ALERT]:</strong> Iniciando protocolo de auto-descripción...</em>
+  <br><br>
+  <b>USUARIO:</b> Angelo Romano<br>
+  <b>ROL:</b> Estudiante de Ingeniería en Sistemas Computacionales<br>
+  <b>DIRECTIVA_PRINCIPAL:</b> Fusión de la lógica de máquina con la creatividad humana.<br>
+  <b>INTERESES:</b> [ 'Robótica', 'Código Abierto', 'Resolución de Problemas Complejos' ]<br>
+  <b>CITA:</b> "El conocimiento es el núcleo de la red. Mi misión es expandirla."
 </p>
 
 ---
 
-### 🌐 BIOGRAFÍA
-
-> 🤖 Estudiante de **Ingeniería en Sistemas Computacionales** con una mente analítica y pasión por la resolución de problemas complejos.
-> 🌌 Explorando la robótica y el código abierto, buscando fusionar la lógica de la máquina con la creatividad humana.
-> 📚 "El conocimiento es el núcleo de la red. Mi misión es expandirla."
+<pre>
+<strong>angeloromano51@github:~$</strong> ls -R /SKILLS
+</pre>
+<table width="100%">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00FFFF);" title="Python"/>
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00FFFF);" title="Java"/>
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00FFFF);" title="JavaScript"/>
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00FFFF);" title="VS Code"/>
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/n8n.svg" width="50" style="fill: white; filter: drop-shadow(0 0 5px #00FFFF);" title="n8n"/>
+      <br><strong>n8n</strong>
+    </td>
+     <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00FFFF);" title="Canva"/>
+      <br><strong>Canva</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💻 ARSENAL_DE_HERRAMIENTAS
-
+<pre>
+<strong>angeloromano51@github:~$</strong> ./fetch-github-stats.sh
+</pre>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="filter: drop-shadow(0 0 5px #F7DF1E); border-radius: 50%; background: #0d1117; padding: 5px;" title="JavaScript"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" style="filter: drop-shadow(0 0 5px #FF0000); border-radius: 50%; background: #0d1117; padding: 5px;" title="Java"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" style="filter: drop-shadow(0 0 5px #4DAAFF); border-radius: 50%; background: #0d1117; padding: 5px;" title="Python"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" style="filter: drop-shadow(0 0 5px #007ACC); border-radius: 50%; background: #0d1117; padding: 5px;" title="Visual Studio Code"/>
-  </a>
-  <a href="https://n8n.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/n8n.svg" width="50" style="filter: drop-shadow(0 0 5px #9EE8FF); border-radius: 50%; background: #0d1117; padding: 5px;" title="n8n"/>
-  </a>
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" style="filter: drop-shadow(0 0 5px #FF6D01); border-radius: 50%; background: #0d1117; padding: 5px;" title="Canva"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=angeloromano51&show_icons=true&theme=radical&border_color=00FF00&icon_color=00FFFF&title_color=00FF00&text_color=FFFFFF" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloromano51&layout=compact&theme=radical&border_color=00FF00&title_color=00FF00&text_color=FFFFFF" alt="Lenguajes más usados"/>
 </p>
 
 ---
 
-### 📄 EXPEDIENTE_PROFESIONAL
+<pre>
+<strong>angeloromano51@github:~$</strong> cat /var/log/PROFESSIONAL_RECORD.yml
+</pre>
+```yaml
+# Sistema de Expedientes Profesionales
+# Permiso de Acceso: Nivel 5 Requerido
+# Desencriptando archivo... OK
 
-Para ver el CV completo, haz clic en el botón de abajo.
+user_profile:
+  name: Angelo Romano
+  title: Técnico de Mantenimiento & Futuro Ingeniero de Sistemas
+  summary: >
+    Más de 5 años de experiencia en reparación de sistemas industriales,
+    refrigeración, electrónica y soporte técnico. Actualmente expandiendo
+    habilidades en desarrollo, automatización y diseño de interfaces
+    en la carrera de Ingeniería en Sistemas Computacionales (UTEL).
+    Enfoque en innovación, liderazgo y mejora continua para optimizar
+    procesos y sistemas.
 
-<a href="#cv_completo">
-  <img src="https://img.shields.io/badge/Ver%20CV-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver CV"/>
-</a>
+work_experience:
+  - entity: DEMSA
+    period: 2024 - CURRENT
+    role: Técnico de Mantenimiento
+    tasks:
+      - Mantenimiento preventivo y correctivo de maquinaria industrial.
+      - Aseguramiento de operatividad continua de equipos críticos.
 
----
+  - entity: LPET
+    period: 2023 - 2024
+    role: Técnico de Mantenimiento
+    tasks:
+      - Ejecución de tareas de mantenimiento y reparación en diversas instalaciones.
 
-### **CV_COMPLETO**
+  - entity: Serv Industrial
+    period: 2022 - 2023
+    role: Técnico en Mantenimiento General
+    tasks:
+      - Diagnóstico de fallas en equipos de cocina, refrigeración y A/C.
+      - Ejecución de planes de mantenimiento.
 
-#### 👤 **PERFIL_PROFESIONAL**
-> Técnico en mantenimiento con más de 5 años de experiencia en reparación de equipos industriales, refrigeración, electrónica y soporte técnico. Apasionado por la tecnología y en constante formación en informática y programación. Actualmente, cursando Ingeniería en Sistemas Computacionales en UTEL para robustecer mis habilidades en reparación de hardware y software, con conocimientos básicos en desarrollo web, automatización y diseño de interfaz de usuario. Mi enfoque es la innovación, el liderazgo y la mejora continua, buscando soluciones eficientes para optimizar procesos y sistemas.
+  - entity: Price Shoes
+    period: 2022
+    role: Jefe de Mantenimiento
+    tasks:
+      - Coordinación y supervisión de equipo técnico.
+      - Supervisión de instalaciones eléctricas y sistemas de climatización.
 
-#### 💼 **EXPERIENCIA_LABORAL**
-- **Técnico de Mantenimiento | DEMSA (2024 - Presente)**
-  - Mantenimiento preventivo y correctivo de maquinaria y equipos industriales, asegurando su operatividad.
-- **Técnico de Mantenimiento | LPET (2023 - 2024)**
-  - Realización de tareas de mantenimiento y reparación en diversas instalaciones.
-- **Técnico en Mantenimiento General | Serv Industrial (2022 - 2023)**
-  - Diagnóstico de fallas y ejecución de mantenimiento en equipos de cocina, refrigeración y aire acondicionado.
-- **Jefe de Mantenimiento | Price Shoes (2022)**
-  - Coordinación y supervisión de equipo técnico.
-  - Supervisión de instalaciones eléctricas y sistemas de climatización.
-- **Soldador Junior | Tecnometal (2021 - 2022)**
-  - Fabricación y ensamblaje de mobiliario médico en acero inoxidable.
-- **Ayudante General | Aceros Corei (2019 - 2021)**
-  - Montaje de estructuras metálicas, utilizando herramientas manuales y eléctricas.
-- **Reparador Técnico de Dispositivos | Quau (Servicio Independiente) (2018 - 2019)**
-  - Diagnóstico y reparación integral de teléfonos móviles y computadoras
+  - entity: Tecnometal
+    period: 2021 - 2022
+    role: Soldador Junior
+    tasks:
+      - Fabricación y ensamblaje de mobiliario médico en acero inoxidable.
+
+  - entity: Aceros Corei
+    period: 2019 - 2021
+    role: Ayudante General
+    tasks:
+      - Montaje de estructuras metálicas.
+      - Uso de herramientas manuales y eléctricas.
+
+  - entity: Quau (Servicio Independiente)
+    period: 2018 - 2019
+    role: Reparador Técnico de Dispositivos
+    tasks:
+      - Diagnóstico y reparación integral de teléfonos móviles y computadoras.
+
+# --- FIN DEL ARCHIVO ---
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/angeloromano51/angeloromano51/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
