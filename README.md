@@ -1,9 +1,11 @@
 <p align="center">
-  ![Subtítulo Animado](https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=STATUS%3A+Compilando+el+futuro%2C+Navegando+el+universo+digital)
+  <a href="https://github.com/angeloromano51">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Angelo+Romano;Ingeniero+de+Sistemas" alt="Título Animado"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1500&color=00FFFF&center=true&vCenter=true&width=650&lines=STATUS%3A+Compilando+el+futuro...;MISIÓN%3A+Navegando+el+universo+digital" alt="Subtítulo Animado"/>
+  ![Subtítulo Animado](https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=STATUS%3A+Compilando+el+futuro%2C+Navegando+el+universo+digital)
 </p>
 
 <p align="center">
@@ -15,13 +17,11 @@
 </div>
 
 ## Sobre Mí
-
 > Soy **Angelo Romano**, un apasionado estudiante de **Ingeniería en Sistemas Computacionales** con una sólida trayectoria de más de 5 años como técnico de mantenimiento. Mi misión es fusionar la lógica de las máquinas con la creatividad humana para resolver problemas complejos. Actualmente, exploro el mundo de la robótica y el código abierto, buscando siempre expandir mi conocimiento en la red.
 
 ---
 
 ## Conéctate Conmigo
-
 <p align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
@@ -30,7 +30,6 @@
 ---
 
 ## 🛠️ Mi Arsenal de Herramientas (Tech Stack)
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" alt="Python"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" alt="Java"/>&nbsp;&nbsp;
@@ -43,7 +42,6 @@
 ---
 
 ## 📊 Mis Estadísticas en GitHub
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=angeloromano51&show_icons=true&theme=radical&border_color=00FF00&icon_color=00FFFF&title_color=00FF00&text_color=FFFFFF" alt="Estadísticas de GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloromano51&layout=compact&theme=radical&border_color=00FF00&title_color=00FF00&text_color=FFFFFF" alt="Lenguajes más usados"/>
@@ -52,7 +50,6 @@
 ---
 
 ## 📂 Trayectoria Profesional y Expediente
-
 <details>
 <summary><strong>Haz clic aquí para ver mi experiencia detallada</strong></summary>
 
@@ -93,5 +90,30 @@ work_experience:
       - Diagnóstico de fallas en equipos de cocina, refrigeración y A/C.
       - Ejecución de planes de mantenimiento.
 
-# --- Puedes añadir el resto de tu experiencia aquí ---
+  - entity: Price Shoes
+    period: 2022
+    role: Jefe de Mantenimiento
+    tasks:
+      - Coordinación y supervisión de equipo técnico.
+      - Supervisión de instalaciones eléctricas y sistemas de climatización.
+
+  - entity: Tecnometal
+    period: 2021 - 2022
+    role: Soldador Junior
+    tasks:
+      - Fabricación y ensamblaje de mobiliario médico en acero inoxidable.
+
+  - entity: Aceros Corei
+    period: 2019 - 2021
+    role: Ayudante General
+    tasks:
+      - Montaje de estructuras metálicas.
+      - Uso de herramientas manuales y eléctricas.
+
+  - entity: Quau (Servicio Independiente)
+    period: 2018 - 2019
+    role: Reparador Técnico de Dispositivos
+    tasks:
+      - Diagnóstico y reparación integral de teléfonos móviles y computadoras.
+
 # --- FIN DEL ARCHIVO ---
