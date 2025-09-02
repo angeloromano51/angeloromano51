@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://github.com/angeloromano51">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Angelo+Romano;Ingeniero+de+Sistemas" alt="Título Animado"/>
+
   </a>
 </p>
 
