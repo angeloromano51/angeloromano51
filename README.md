@@ -1,10 +1,5 @@
 
-  </a>
-</p>
 
-<p align="center">
-  ![Subtítulo Animado](https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=STATUS%3A+Compilando+el+futuro%2C+Navegando+el+universo+digital)
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/angeloromano51/cyberpunk-readme-assets/main/space-banner.gif" width="100%" alt="Banner Espacial"/>
