@@ -1,6 +1,5 @@
 <p align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1500&color=00FFFF&center=true&vCenter=true&width=650&lines=STATUS%3A+Compilando+el+futuro;MISIÓN%3A+Navegando+el+universo+digital" alt="Subtítulo Animado"/>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=STATUS%3A+Compilando+el+futuro%2C+Navegando+el+universo+digital" alt="Subtítulo Animado"/>
 </p>
 
 <p align="center">
